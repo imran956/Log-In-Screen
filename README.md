@@ -13,3 +13,6 @@ This project showcases a login screen UI for an Android application. It includes
 1. Clone the repository:
    ```bash
    git clone https://github.com/imran956/Log-In-Screen.git
+
+<img src = "https://github.com/imran956/images/blob/main/Log%20In%20Screen/Light%20mode.png"  width = "270" height = "600">  &nbsp; &nbsp; &nbsp; &nbsp;  <img src = "https://github.com/imran956/images/blob/main/Log%20In%20Screen/Night%20mode.png"  width = "270" height = "600"><br/>
+![]()
