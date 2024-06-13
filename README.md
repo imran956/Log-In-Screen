@@ -7,6 +7,7 @@ This project showcases a login screen UI for an Android application. It includes
 - Stylish and responsive UI design
 - Material Design components
 - Adaptable to various screen sizes
+- Supports light mode as well as dark mode
 
 ## 🛠 Installation
 1. Clone the repository:
